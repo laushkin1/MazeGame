@@ -5,3 +5,6 @@ OUTPUT=$@
 
 %: %.c
 	$(CC) $(CFLAGS) $@.c $(LDLIBS) -o $(OUTPUT)
+
+clean:
+	rm program score.txt 
