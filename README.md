@@ -15,3 +15,6 @@ make program
 ![level_2](./screenshots/level_2.png)
 
 ![level_3](./screenshots/level_3.png)
+
+# Tips
+Make your terminal 80x24
