@@ -6,7 +6,7 @@ Maze Game on C with ncurses
 make program
 ./program
 ```
-# Screenshot
+# Screenshots
 ![menu](./screenshots/menu.png)
 
 
